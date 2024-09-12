@@ -17,6 +17,14 @@ Installing:
 
 `bundle update && bundle install`
 
+Maintenance:
+
+```
+gem update --system
+bundle update --bundler
+bundle update
+```
+
 Running the site locally:
 
 `bundle exec jekyll serve`
