@@ -8,7 +8,7 @@ permalink: /meetings
 
 ## AnthroFlor 2022
 
-<img src="images/meetings-AnthroFlor.jpg" style="width:30%;" />
+<img src="images/meetings/AnthroFlor.jpg" style="width:30%;" />
 
 AnthroFlor, the SQS-sponsored International Symposium on the Anthropocene, will take place in Florence, Italy on 8–10th September, 2022. The provisional scientific program and guidelines are provided below.
 
@@ -21,7 +21,7 @@ AnthroFlor, the SQS-sponsored International Symposium on the Anthropocene, will 
 
 Cape Town, South Africa 27 August – 4 September 2016
 
-<img src="images/meetings-IGCconference.jpg" />
+<img src="images/meetings/IGCconference.jpg" />
 
 * [Visit Website >](http://www.35igc.org/)
 
@@ -31,7 +31,7 @@ Cape Town, South Africa 27 August – 4 September 2016
 
 Graz, Austria, 19-23 July 2015
 
-<img src="images/meetings-strati2015logo.png" />
+<img src="images/meetings/strati2015logo.png" />
 
 * [More information >](http://www.stratigraphy.org/upload/Strati2015_2circular.pdf)
 
@@ -41,7 +41,7 @@ Graz, Austria, 19-23 July 2015
 
 Nagoya, Japan, 27 July – 2 August 2015
 
-<img src="images/meetings-inquajapan15.jpg" />
+<img src="images/meetings/inquajapan15.jpg" />
 
 * [Visit website >](http://inqua2015.jp/)
 

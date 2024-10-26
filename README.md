@@ -15,7 +15,9 @@ This subcommission's website is hosted within the ICS's set of code repositories
 
 Installing:
 
-`bundle update && bundle install`
+```
+bundle update && bundle install
+```
 
 Maintenance:
 
@@ -27,7 +29,9 @@ bundle update
 
 Running the site locally:
 
-`bundle exec jekyll serve`
+```
+bundle exec jekyll serve
+```
 
 
 ## License & Rights
