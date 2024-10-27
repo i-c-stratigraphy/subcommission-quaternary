@@ -8,7 +8,7 @@ permalink: /definitions
 
 Series, and thereby systems, are formally-defined based on Global Stratotype Section and Points (GSSP) of which two have been ratified within the last 2.7 million years. The Subcommission on Quaternary Stratigraphy has [working groups](/working-groups) dedicated to the GSSP definition and subdivision of the Pleistocene and Holocene. An overview of the ratified and proposed GSSPs can be found on the [IUGS ICS website](http://www.stratigraphy.org/).
 
-It is important to recognise the distinction between Chronostratigraphy and Climatostratigraphy. The former is the division of time as recorded in rock sequences, whereas the latter is the division of time based on past climatic oscillations. Both have their own histories with dedicated pages found [here](/definitions/history-chronostratigraphy/) and [here](/definitions/history-climatostratigraphy/). Also, the [chart page](/charts) offers further insight into these two parallel division systems.
+It is important to recognise the distinction between Chronostratigraphy and Climatostratigraphy. The former is the division of time as recorded in rock sequences, whereas the latter is the division of time based on past climatic oscillations. Both have their own histories with dedicated pages found [here](/definitions-history-chronostratigraphy/) and [here](/definitions-history-climatostratigraphy/). Also, the [chart page](/charts) offers further insight into these two parallel division systems.
 
 ---
 
