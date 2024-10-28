@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Definitions ICS Vote"
-permalink: /definitions-ics-vote
+permalink: /definitions/docs-further-info
 ---
 
 # ICS formal vote on the base of the Quaternary and redefinition of Pleistocene 2009

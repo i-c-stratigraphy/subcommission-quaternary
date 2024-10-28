@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Definitions History chronostratigraphy"
-permalink: /definitions-hitory-chronostratigraphy
+permalink: /definitions/history-chronostratigraphy
 ---
 
 # History of the stratigraphical nomenclature of the glacial period
@@ -10,7 +10,7 @@ Since the earliest beginnings of geological inquiry, the classification and nome
 
 A vindication of this view was suggested at much the same time by observations reported from the voyages of exploration of the polar regions where floating ice had frequently been seen transporting exotic materials. Acceptance of this process as an explanation for the transport of erratic clasts, even to the tops of the highest hills, reinforced the Diluvial Theory, leading to adoption of the term ‘drift’ to identify the sediment. This theory was very much the accepted explanation until the mid-nineteenth century. However, geologists working in the Alps and northern Europe had been struck by the extraordinary similarity of the ‘drift’ deposits and their associated landforms to those being formed by modern mountain glaciers. Several observers such as Perraudin, Venetz-Sitten, de Charpentier and others proposed that the glaciers had formerly been more extensive, but it was the palaeontologist Agassiz who first advocated that this extension represented a time that came to be termed the Ice Age by Goethe.
 
-<img src="images/definitions/iceberg.jpg" style="width:90%"/>
+<img src="/images/definitions/iceberg.jpg" style="width:90%"/>
 
 ## Quaternary _versus_ Pleistocene
 
@@ -30,17 +30,17 @@ Questions concerning periodisation in geology are obviously still with us, and t
         <p>His work is presented in the ‘Two letters over several directed natural observations’. In the letter he wrote to Professor A.Vallisneri the younger on 30 March 1759 Arduino proposed a classification into four great ‘orders’; Primary, Secondary, Tertiary and Quaternary . Click image to enlarge. Image below from F. Ellenberger 1994 Histoire de la Géologie. Tome 2. Technique et documentation (Lavoisier) Paris.</p>
     </div>
     <div style="grid-column:2;">
-        <img src="images/definitions/vrarduino.jpg" style="width:100%" />
+        <img src="/images/definitions/vrarduino.jpg" style="width:100%" />
     </div>
 </div>
 
-<img src="images/definitions/Arduinovdagno.jpg" style="width:100%" />
+<img src="/images/definitions/Arduinovdagno.jpg" style="width:100%" />
 
-<img src="images/definitions/Desnoyer1-copy.jpg" style="width:100%" />
+<img src="/images/definitions/Desnoyer1-copy.jpg" style="width:100%" />
 
 **The pages shown are taken from the original publication by Jean Desnoyers (1829) in which he uses the term _Quaternaire_ for the first time to apply to the ‘recent Tertiary’ deposits in the Paris Basin.**
 
-<img src="images/definitions/Geolquat.jpg" style="width:100%" />
+<img src="/images/definitions/Geolquat.jpg" style="width:100%" />
 
 ## Summary
 
@@ -53,7 +53,7 @@ Pleistocene Series / Epoch
 
 Many consider that the Quaternary is not a satisfactory term in the scheme; Primary and Secondary have been replaced by Palaeozoic and Mesozoic respectively, and Tertiary has been replaced by Palaeogene and Neogene as formal systems within the Cenozoic, so the alternative Anthropogene (often in use in the ex-USSR), has been proposed. A further term Pleistogene was proposed by Harland et al. (1989) in the Geological Time Scale, although thought to fit better the overall nomenclature, it has never found favour. However, tradition prevails with the continued use of the Quaternary and is accepted here. Alternative scales have been proposed (e.g. to include the Pleistocene in the Neogene). An analogous proposal has been made to include the Holocene as a Pleistocene stage (cf. the Flandrian: see below). Although both would undoubtedly be logical developments, they run counter to history and to an immense literature, and ultimately would serve no great purpose.
 
-<img src="images/definitions/boulder1.jpg" style="width:100%" />
+<img src="/images/definitions/boulder1.jpg" style="width:100%" />
 
 According to Nilsson (1983 _The Pleistocene_. Reidel, Dordrecht, p. 23-4), Soviet scientists discarded the concept of an integrated Tertiary Period. They followed certain non-Russian writers in classifying the divisions Paleogene and Neogene as periods, which they divided into the conventional epochs. Being (as they saw it) a relic of an antiquated classification, the term Quaternary, too, had been abandoned and replaced by the designation Anthropogene (analogous to Paleogene, Neogene), though its conceptional meaning remained unaltered (cf. i.a. Gerasimov, I.P. 1979 Anthropogene and its major problem. Boreas 8, 23-30.). The Quaternary or Anthropogene retained the rank of a period. Linguistically, however, the term Anthropogene seems less fortunate.
 

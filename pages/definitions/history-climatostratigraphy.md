@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Definitions History Climatostratigraphy"
-permalink: /definitions-history-climatostratigraphy
+permalink: /definitions/history-climatostratigraphy
 ---
 
 # Climatostratigraphy
 
 In contrast to the rest of the Phanerozoic, the Quaternary has a long-established tradition of sediment sequences being divided on the basis of represented climatic changes, particularly sequences based on glacial deposits in central Europe and mid-latitude North America. This approach was adopted by early workers for terrestrial sequences because it seemed logical to divide till (glacial diamicton) sheets and non-glacial deposits or in stratigraphical sequences into glacial (Glaciation) and interglacial periods respectively (cf. West, 1968, 1977; Bowen 1978). In other words the divisions were fundamentally lithological (Fig. 1). The overriding influence of climatic change on sedimentation and erosion in the Quaternary has meant that, despite the enormous advances in knowledge during the last century and a half, climate-based classification has remained central to the subdivision of the succession. Indeed the subdivision of the modern ocean sediment isotope stage sequence is itself based on the same basic concept. It is this approach which has brought Quaternary geology so far, but at the same time causes considerable confusion to workers attempting to correlate sequences from enormously differing geographical and thus environmental settings. This is because of the great complexity of climatic change and the very variable effects of the changes on natural systems.
 
-<img src="images/definitions/Geikiesection.jpg" style="width:100%"/>
+<img src="/images/definitions/Geikiesection.jpg" style="width:100%"/>
 
 **Fig. 1 Fossiliferous sand deposits between tills exposed in the Cowden Burn railway cutting at Neilston in Renfrewshire, Scotland, from Geikie (1874; Fig. 27).**
 
@@ -31,11 +31,11 @@ Donau/Günz – Interglacial
 Donau – Glacial
 ?Biber – Glacial
 
-<img src="images/definitions/PBprofile.jpg" style="width:100%"/>
+<img src="/images/definitions/PBprofile.jpg" style="width:100%"/>
 
 **Fig. 2 Sketch longitudinal sections through the gravel district of the northern Alpine Foreland of southern Germany showing the distributon of glaciofluvial sediments and their relationship to end-moraines of alpine glaciations by Albrecht Penck. These units are those upon which the original Alpine classification was based. From Penck & Brückner (1909; Table 1). Click on image to see full version of illustration.**
 
-<img src="images/definitions/Bruckner-Penck-copy.jpg" style="width:100%"/>
+<img src="/images/definitions/Bruckner-Penck-copy.jpg" style="width:100%"/>
 
 **Fig. 3 The geologists Eduard Brückner (l) and Albrecht Penck (r) with the title page of the first volume of their classic book ‘Die Alpen im Eiszeitalter’ (1909-11).**
 
