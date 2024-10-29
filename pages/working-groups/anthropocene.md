@@ -148,9 +148,9 @@ Colin Waters (v) (AWG Chair) e-mail: <cw398@leicester.ac.uk>
 
 ### 2023
 
-* Head, M.J., Waters, C.N., Zalasiewicz, J.A., Barnosky, A.D., Turner, S.D., Cearreta, A., Leinfelder, R., McCarthy, F.M.G., Richter, D. de B., Rose, N.L., Saito, Y., Vidas, D., Wagreich, M., Han, Y., Summerhayes, C.P., Williams, M. & Zinke, J. (2023). The Anthropocene as an epoch is distinct from all other concepts known by this term: a reply to Swindles et al. (2023). _Journal of Quaternary Science_, 38, 455–458. <https://doi.org/10.1002/jqs.3513>
+* Head, M.J., Waters, C.N., Zalasiewicz, J.A., Barnosky, A.D., Turner, S.D., Cearreta, A., Leinfelder, R., McCarthy, F.M.G., Richter, D. de B., Rose, N.L., Saito, Y., Vidas, D., Wagreich, M., Han, Y., Summerhayes, C.P., Williams, M. & Zinke, J. (2023). The Anthropocene as an epoch is distinct from all other concepts known by this term: a reply to Swindles _et al._ (2023). _Journal of Quaternary Science_, 38, 455–458. <https://doi.org/10.1002/jqs.3513>
 * Head, M.J., Zalasiewicz, J.A., Waters, C.N., Turner, S.D., Williams, M., Barnosky, A.D., Steffen, W., Wagreich, M., Haff, P.K., Syvitski, J., Leinfelder, R., McCarthy, F.M.G., Rose, N.L., Wing, S.L., An, Z., Cearreta, A., Cundy, A.B., Fairchild, I.J., Han, Y., Sul, J.A.I. do, Jeandel, C., McNeill, J.R. & Summerhayes, C.P. (2023). The Anthropocene is a prospective epoch/series, not a geological event. _Episodes_, 46, 229–238. <https://doi.org/10.18814/epiiugs/2022/022025>
-* Waters, C.N., Head, M.J., Zalasiewicz, J., McCarthy, F.M.G., Wing, S.L., Haff, P.K., Williams, M., Barnosky, A.D., Fiałkiewicz-Kozieł, B., Leinfelder, R., McNeill, J.R., Rose, N.L., Steffen, W., Summerhayes, C.P., Wagreich, M., An, Z., Cearreta, A., Cundy, A.B., Fairchild, I.J., Gałuszka, A., Hajdas, I., Han, Y., Ivar do Sul, J.A., Jeandel, C., Syvitski, J., Turner, S.D. & Zinke, J. (2023). Response to Merritts et al. (2023): The Anthropocene is complex. Defining it is not. _Earth-Science Reviews_, 238, 104335. <https://doi.org/10.1016/j.earscirev.2023.104335>
+* Waters, C.N., Head, M.J., Zalasiewicz, J., McCarthy, F.M.G., Wing, S.L., Haff, P.K., Williams, M., Barnosky, A.D., Fiałkiewicz-Kozieł, B., Leinfelder, R., McNeill, J.R., Rose, N.L., Steffen, W., Summerhayes, C.P., Wagreich, M., An, Z., Cearreta, A., Cundy, A.B., Fairchild, I.J., Gałuszka, A., Hajdas, I., Han, Y., Ivar do Sul, J.A., Jeandel, C., Syvitski, J., Turner, S.D. & Zinke, J. (2023). Response to Merritts _et al._ (2023): The Anthropocene is complex. Defining it is not. _Earth-Science Reviews_, 238, 104335. <https://doi.org/10.1016/j.earscirev.2023.104335>
 * Zalasiewicz, J., Head, M.J., Waters, C.N., Turner, S.D., Haff, P.K., Summerhayes, C., Williams, M., Cearreta, A., Wagreich, M., Fairchild, I., Rose, N.L., Saito, Y., Leinfelder, R., Fiałkiewicz-Kozieł, B., An, Z., Syvitski, J., Gałuszka, A., McCarthy, F.M.G., Ivar do Sul, J., Barnosky, A., Cundy, A.B., McNeill, J.R. & Zinke, J. (2023). The Anthropocene within the Geological Time Scale: a response to fundamental questions. _Episodes_, <https://doi.org/10.18814/epiiugs/2023/>023025  
 
 ### 2022
@@ -159,7 +159,7 @@ Colin Waters (v) (AWG Chair) e-mail: <cw398@leicester.ac.uk>
 * Head, M.J., Zalasiewicz, J.A., Waters, C.N., Turner, S.D., Williams, M., Barnosky, A.D., Steffen, W., Wagreich, M., Haff, P.K., Syvitski, J., Leinfelder, R., McCarthy, F.M.G., Rose, N.L., Wing, S.L., An, Z., Cearetta, A., Cundy, A., B., Fairchild, I.J., Han, Y., Ivar do Sul, J.A., Jeandel, C., McNeill, J.R. and Summerhayes, C.P (2022). The proposed Anthropocene Epoch/Series is underpinned by an extensive array of mid-20th century stratigraphic event signals. _Journal of Quaternary Science_, 37(7), 1181-1187. <https://doi.org/10.1002/jqs.3467>
 * Head, M.J. Zalasiewicz, J.A., Waters, C.N., Turner, S.D., Williams, M., Barnosky, A.D., Steffen, W., Wagreich, M., Haff, P.K., Syvitski, J., Leinfelder, R., McCarthy, F.M.G., Neil Rose, N.L., Wing, S.L. An, Z., Cearreta, A., Cundy, A.B., Fairchild, I.J., Han, Y., Ivar do Sul, J.A., Jeandel, C., McNeill, J.R. and Summerhayes, C.P. (2022) The Anthropocene is a prospective epoch/series, not a geological event. IUGS _Episodes_. <https://doi.org/10.18814/epiiugs/2022/022025>
 * Waters, C.N., Williams, M., Zalasiewicz, J., Turner, S.D., Barnosky, A.D., Head, M.J.,, Wing, S.I., Wagreich, M., Steffen, W., Summerhayes, C.P., Cundy, A.B., Zinke, J., Failkiewicz-Koziel, B., Leinholder, R., Haff, P.K., McNeill, J.R., Rose, N.L., Hajdas, K., McCarthy, F.M.G., Cearreta, A., Galuszka, A., Syvitski, J., Han, Y., An, Z., Fairchild, I.J., Ivar do Sul, J.A. and Jeandel, C. (2022) Epochs, events and episodes: Marking the geological impact of humans. _Earth-Science Reviews_, <https://doi.org/10.1016/j.earscirev.2022.104171>
-* Williams, M., Leinfelder, R., Barnosky, A.D., Head, M.J., McCarthy, F.M., Cearreta, A., Himson, S., Holmes, R., Waters, C.N., Zalasiewicz, J., Turner, S. et al. (2022). Planetary‐scale change to the biosphere signalled by global species translocations can be used to identify the Anthropocene. _Palaeontology_, 65(4), p.e12618. doi: 10.1111/pala.12618
+* Williams, M., Leinfelder, R., Barnosky, A.D., Head, M.J., McCarthy, F.M., Cearreta, A., Himson, S., Holmes, R., Waters, C.N., Zalasiewicz, J., Turner, S. _et al._ (2022). Planetary‐scale change to the biosphere signalled by global species translocations can be used to identify the Anthropocene. _Palaeontology_, 65(4), p.e12618. doi: 10.1111/pala.12618
 
 ### 2021
 
@@ -175,10 +175,10 @@ Colin Waters (v) (AWG Chair) e-mail: <cw398@leicester.ac.uk>
 
 ### 2019
 
-* Williams, M. et al. 2019. Underground metro systems: a durable geological proxy of rapid urban population growth and energy consumption during the Anthropocene. In Craig Benjamin, Esther Quaedakers and David Baker (Eds.) Anthropocene: _The Routledge Handbook of Big History (Routledge Companions)_. Oxon: Taylor & Francis.
+* Williams, M. _et al._ 2019. Underground metro systems: a durable geological proxy of rapid urban population growth and energy consumption during the Anthropocene. In Craig Benjamin, Esther Quaedakers and David Baker (Eds.) Anthropocene: _The Routledge Handbook of Big History (Routledge Companions)_. Oxon: Taylor & Francis.
 * Zalasiewicz, J., Gabbott, S.E. and Waters C.N. 2019. Chapter 23: Plastic Waste: how plastic has become part of the Earth’s geological cycle. In: Trevor M. Letcher and Dan  A Vallero (eds.) _Waste: A Handbook for Management_, 2nd edition. Elsevier, New York, 443-452.
-* Zalasiewicz, J. et al. 2019. A formal Anthropocene is compatible with but distinct from its diachronous anthropogenic counterparts: a response to WF Ruddiman’s ‘three flaws in defining a formal Anthropocene’. _Progress in Physical Geography,_ 43(3): 319-333.
-* Zalasiewicz, J, Waters, CN et al. (Eds.) (2019). [_The Anthropocene as a Geological Time Unit_](https://www.cambridge.org/gb/academic/subjects/earth-and-environmental-science/sedimentology-and-stratigraphy/anthropocene-geological-time-unit-guide-scientific-evidence-and-current-debate?format=HB). CUP.
+* Zalasiewicz, J. _et al._ 2019. A formal Anthropocene is compatible with but distinct from its diachronous anthropogenic counterparts: a response to WF Ruddiman’s ‘three flaws in defining a formal Anthropocene’. _Progress in Physical Geography,_ 43(3): 319-333.
+* Zalasiewicz, J, Waters, CN _et al._ (Eds.) (2019). [_The Anthropocene as a Geological Time Unit_](https://www.cambridge.org/gb/academic/subjects/earth-and-environmental-science/sedimentology-and-stratigraphy/anthropocene-geological-time-unit-guide-scientific-evidence-and-current-debate?format=HB). CUP.
 
 <img src="/images/working-groups/Screen-Shot-2018-09-28-at-10.59.06.png" style="width:50%" />
 
@@ -188,68 +188,68 @@ The evidence for the Anthropocene is examined in detail, ranging from chemical s
 
 ### 2018
 
-* Cooper, Anthony H.et al. 2018 [Humans are the most significant global geomorphological driving force of the 21st Century](http://nora.nerc.ac.uk/id/eprint/521157/). Anthropocene Review. 1-8.
-* Summerhayes, C. and Zalsiewicz, J. 2018. Global warming and the Anthropocene. _Geology Today_, **34**(5): 194-200.
-* Waters, C N. et al. 2018. A Global Boundary Stratotype Sections and Points (GSSPs) for the Anthropocene Series: Where and how to look for a potential candidate. Earth-Sci. Rev., 178, 379-429.
-* Waters, C N. et al. 2018. How to date natural archives of the Anthropocene. _Geology Today_, **34**(5):182-187.
-* Waters, C N. and Zalasiewicz, J. 2018. Concrete: the most abundant novel rock type of the Anthropocene. In Dominick A. DellaSala and Michael I. Goldstein (Eds.), The Encyclopedia of the Anthropocene: Vol. 1 (75-85). Oxford: Elsevier.
-* Williams, M. et al. 2018. The palaeontological record of the Anthropocene. _Geology Today_, **24**(5): 188-193.
-* Zalasiewicz, J. et al. 2018. The Anthropocene. _Geology Today_, **34**(5): 177-181.
-* Zalasiewicz, J. et al. 2018. The stratigraphical signature of the Anthropocene in England and its wider context. Proceedings of the Geologists’ Association, 129(3): 482-491.
-* Zalasiewicz, J, and Waters, C N. 2018. Arguments for an official Global Stratotype Section and Point for the Anthropocene. In Dominick A. DellaSala and Michael I. Goldstein (Eds.) The Encyclopedia of the Anthropocene: Vol. 1 (29-34). Oxford: Elsevier.
+* Cooper, Anthony H._et al._ 2018 [Humans are the most significant global geomorphological driving force of the 21st Century](http://nora.nerc.ac.uk/id/eprint/521157/). _Anthropocene Review_. 1-8.
+* Summerhayes, C. and Zalsiewicz, J. 2018. [Global warming and the Anthropocene](https://onlinelibrary.wiley.com/doi/abs/10.1111/gto.12247). _Geology Today_, **34**(5): 194-200.
+* Waters, C N. _et al._ 2018. [A Global Boundary Stratotype Sections and Points (GSSPs) for the Anthropocene Series: Where and how to look for a potential candidate](https://doi.org/10.1016/j.earscirev.2017.12.016). _Earth-Sci. Rev._, 178, 379-429.
+* Waters, C N. _et al._ 2018. [How to date natural archives of the Anthropocene](https://doi.org/10.1111/gto.12245). _Geology Today_, **34**(5):182-187.
+* Waters, C N. and Zalasiewicz, J. 2018. Concrete: the most abundant novel rock type of the Anthropocene. In Dominick A. DellaSala and Michael I. Goldstein (Eds.), [The Encyclopedia of the Anthropocene: Vol. 1](https://doi.org/10.1016/B978-0-12-809665-9.09775-5) (75-85). Oxford: Elsevier.
+* Williams, M. _et al._ 2018. [The palaeontological record of the Anthropocene](https://doi.org/10.1111/gto.12246). _Geology Today_, **24**(5): 188-193.
+* Zalasiewicz, J. _et al._ 2018. [The Anthropocene](https://doi.org/10.1111/gto.12244). _Geology Today_, **34**(5): 177-181.
+* Zalasiewicz, J. _et al._ 2018. [The stratigraphical signature of the Anthropocene in England and its wider context](https://doi.org/10.1016/j.pgeola.2017.06.004). Proceedings of the Geologists’ Association, 129(3): 482-491.
+* Zalasiewicz, J, and Waters, C N. 2018. Arguments for an official Global Stratotype Section and Point for the Anthropocene. In Dominick A. DellaSala and Michael I. Goldstein (Eds.) [The Encyclopedia of the Anthropocene: Vol. 1](https://doi.org/10.1016/B978-0-12-809665-9.09775-5) (29-34). Oxford: Elsevier.
 
 ### 2017
 
-* Grinevald, J. et al. 2017. Les preuves jusifiant une nouvelle période géologique ne manquent pas. La Recherche, **520**: 87-88.
-* Williams, M., Zalasiewicz, J. and Waters, C N. 2017. The Anthropocene: a geological perspective. In Heikkurinen, P. (Ed.), Sustainability and Peaceful Coexistence for the Anthropocene. Oxon: Taylor & Francis.
-* Zalasiewicz, J., Waters, C N. and Williams, M. 2017. Les strates de la ville de l’Anthropocène. Annels, Histoire, Sciences Sociales, **72**(2): 329-351.
-* Zalasiewicz, J, Waters, CN & Head, MJ 2017. Anthropocene: its stratigraphic basis. _Nature_, **541** (7637): 289.
-* Zalasiewicz, J, Waters, CN et al. 2017. Making the case for a formal Anthropocene Epoch: an analysis of ongoing critiques. Newsletters on Stratigraphy, 50(2): 205-226.
-* Zalasiewicz, J, Williams, M, Waters, CN et al. 2017. Scale and diversity of the physical technosphere: a geological perspective. Rev., **4**(1): 9-22.
-* Zalasiewicz, J. et al. 2017. The geological and Earth System reality of the Anthropocene: Reply to Bauer and Ellis. Current Anthropology, **59**(2): 220-223.
-* Zalasiewicz, J. et al. 2017. The Working Group on the ‘Anthropocene’: Summary of evidence and recommendations. Anthropocene **19**: 55-60.
+* Grinevald, J. _et al._ 2017. [Les preuves jusifiant une nouvelle période géologique ne manquent ](https://www.larecherche.fr/les-preuves-justifiant-une-nouvelle-p%C3%A9riode-g%C3%A9ologique-ne-manquent-pas). _La Recherche_, **520**: 87-88.
+* Williams, M., Zalasiewicz, J. and Waters, C N. 2017. The Anthropocene: a geological perspective. In Heikkurinen, P. (Ed.), [Sustainability and Peaceful Coexistence for the Anthropocene](https://www.routledge.com/Sustainability-and-Peaceful-Coexistence-for-the-Anthropocene/Heikkurinen/p/book/9781138634275). Oxon: Taylor & Francis.
+* Zalasiewicz, J., Waters, C N. and Williams, M. 2017. [Les strates de la ville de l’Anthropocène](https://doi.org/10.1017/S0395264917000567). _Annels, Histoire, Sciences Sociales_, **72**(2): 329-351.
+* Zalasiewicz, J, Waters, CN & Head, MJ 2017. [Anthropocene: its stratigraphic basis](https://doi.org/10.1038/541289b). _Nature_, **541** (7637): 289.
+* Zalasiewicz, J, Waters, CN _et al._ 2017. [Making the case for a formal Anthropocene Epoch: an analysis of ongoing critiques](https://doi.org/10.1127/nos/2017/0385). _Newsletters on Stratigraphy_, 50(2): 205-226.
+* Zalasiewicz, J, Williams, M, Waters, CN _et al._ 2017. [Scale and diversity of the physical technosphere: a geological perspective](https://doi.org/10.1177/2053019616677743). _Rev._, **4**(1): 9-22.
+* Zalasiewicz, J. _et al._ 2017. The geological and Earth System reality of the Anthropocene: Reply to Bauer and Ellis. _Current Anthropology_, **59**(2): 220-223.
+* Zalasiewicz, J. _et al._ 2017. [The Working Group on the ‘Anthropocene’: Summary of evidence and recommendations](https://doi.org/10.1016/j.ancene.2017.09.001). _Anthropocene_ **19**: 55-60.
 
 ### 2016
 
-* Edgeworth, M. et al. 2016. Second Anthropocene Working Group Meeting (Conference Report). The European Archaeologist **47**.
-* Steffen, W, Leinfelder, R, Zalasiewicz, J, Waters, CN et al. 2016. Stratigraphic and Earth System Approaches to Defining the Anthropocene. _Earth’s Future_. DOI: 10.1002/2016EF000379.
-* Waters, CN et al. 2016. The Anthropocene is functionally and stratigraphically distinct from the Holocene. Science, **351** (6269): 137.
-* Williams, M. et al. The Anthropocene: a conspicuous stratigraphical signal of anthropogenic changes in production and consumption across the biosphere. _Earth’s Future_ **4**(3): 34-53.
-* Zalasiewicz, J., Waters, CN et al. 2016. The geological cycle of plastics and their use as a stratigraphic indicator of the Anthropocene. Anthropocene, **13**: 4-17.
-* Zalasiewicz, J., Williams, M. and Waters, C N. 2016. Anthropocene. In Joni Adamson, William A. Gleason, and David N. Pellow (Eds.) Keywords in the Study of Environment and Culture (14-16). New York: NYU Press.
-* Zalasiewicz, J. et al. 2016. Petrifying earth process: the stratigraphic imprint of key earth parameters in the Anthropocene. Theory, Culture & Society, **34**(2-3): 83-104.
-* Zalasiewics, J. et al. 2016 Scale and diversity of the physical technosphere: a geological perspective. The Anthropocene Review, **4**(1): 9-22.
+* Edgeworth, M. _et al._ 2016. [Second Anthropocene Working Group Meeting (Conference Report)](http://nora.nerc.ac.uk/id/eprint/513430/1/Conference%20report_anthropocene_text%20(NORA).pdf). The European Archaeologist **47**.
+* Steffen, W, Leinfelder, R, Zalasiewicz, J, Waters, CN _et al._ 2016. [Stratigraphic and Earth System Approaches to Defining the Anthropocene](https://doi.org/10.1002/2016EF000379). _Earth’s Future_. DOI: 10.1002/2016EF000379.
+* Waters, CN _et al._ 2016. [The Anthropocene is functionally and stratigraphically distinct from the Holocene](https://doi.org/10.1126/science.aad2622). Science, **351** (6269): 137.
+* Williams, M. _et al._ [The Anthropocene: a conspicuous stratigraphical signal of anthropogenic changes in production and consumption across the biosphere](https://doi.org/10.1002/2015EF000339). _Earth’s Future_ **4**(3): 34-53.
+* Zalasiewicz, J., Waters, CN _et al._ 2016. [The geological cycle of plastics and their use as a stratigraphic indicator of the Anthropocene](https://doi.org/10.1016/j.ancene.2016.01.002). Anthropocene, **13**: 4-17.
+* Zalasiewicz, J., Williams, M. and Waters, C N. 2016. Anthropocene. In Joni Adamson, William A. Gleason, and David N. Pellow (Eds.) [Keywords in the Study of Environment and Culture](https://nyupress.org/books/9780814760833/) (14-16). New York: NYU Press.
+* Zalasiewicz, J. _et al._ 2016. [Petrifying earth process: the stratigraphic imprint of key earth parameters in the Anthropocene](https://doi.org/10.1177/0263276417690587). _Theory, Culture & Society_, **34**(2-3): 83-104.
+* Zalasiewics, J. _et al._ 2016 [Scale and diversity of the physical technosphere: a geological perspective](https://doi.org/10.1177/2053019616677743). _The Anthropocene Review_, **4**(1): 9-22.
 
 ### 2015
 
-* Edgeworth, M, Richter, D DeB, Waters, CN et al. [Diachronous beginnings of the Anthropocene: The lower bounding surface of anthropogenic deposits.](https://doi.org/10.1177/2053019614565394) _Anth. Rev._ **2**(1): 1-26.
-* Waters, CN et al. 2015. [Can nuclear weapons fallout mark the beginning of the Anthropocene Epoch?](http://dx.doi.org/10.1177/0096340215581357) _Atom. Sci._, **71**(3): 46-57.
-* Zalasiewicz, J, Waters, CN _et al._ [Colonization of the Americas, ‘Little Ice Age’ climate, and bomb-produced carbon: Their role in defining the Anthropocene.](https://doi.org/10.1016/j.quaint.2014.11.045) _Anth. Rev._, **2**(2): 117-127.
-* Zalasiewicz, J, Waters, CN et al. [When did the Anthropocene begin? A mid-twentieth century boundary level is stratigraphically optimal.](https://doi.org/10.1016/j.quaint.2014.11.045) _Quat. Int._, **383**: 196-203.
+* Edgeworth, M, Richter, D DeB, Waters, CN _et al._ [Diachronous beginnings of the Anthropocene: The lower bounding surface of anthropogenic deposits.](https://doi.org/10.1177/2053019614565394) _Anth. Rev._ **2**(1): 1-26.
+* Waters, CN _et al._ 2015. [Can nuclear weapons fallout mark the beginning of the Anthropocene Epoch?](http://dx.doi.org/10.1177/0096340215581357) _Atom. Sci._, **71**(3): 46-57.
+* Zalasiewicz, J, Waters, CN __et al.__ [Colonization of the Americas, ‘Little Ice Age’ climate, and bomb-produced carbon: Their role in defining the Anthropocene.](https://doi.org/10.1016/j.quaint.2014.11.045) _Anth. Rev._, **2**(2): 117-127.
+* Zalasiewicz, J, Waters, CN _et al._ [When did the Anthropocene begin? A mid-twentieth century boundary level is stratigraphically optimal.](https://doi.org/10.1016/j.quaint.2014.11.045) _Quat. Int._, **383**: 196-203.
 * Zalasiewicz, J. and Waters, C N. 2015. The Anthropocene. _Oxford Research Encyclopedia of Environmental Science_. [Framing Concepts in Environmental Science](http://10.0.4.69/acrefore/9780199389414.013.7).
 
 ### 2014
 
-* Waters, CN et al. 2014. [_A Stratigraphical basis for the Anthropocene_](http://sp.lyellcollection.org/content/395/1). Geological Society, London, Special Publication, **395**, 321pp. 
+* Waters, CN _et al._ 2014. [_A Stratigraphical basis for the Anthropocene_](http://sp.lyellcollection.org/content/395/1). Geological Society, London, Special Publication, **395**, 321pp. 
 
 <img src="/images/working-groups/F1.medium.gif" style="width:25%" />
 
 * Zalasiewicz, J, Waters, CN & Williams, M 2014. [Human bioturbation, and the subterranean landscape of the Anthropocene](https://doi.org/10.1016/j.ancene.2014.07.002). _Anthropocene_, **6**: 3-9.
-* Zalasiewicz, J, Williams, M, Waters, CN et al. 2014. [The technofossil records of humans.](https://doi.org/10.1177/2053019613514953) _Rev._, **1**(1), 34-43.
+* Zalasiewicz, J, Williams, M, Waters, CN _et al._ 2014. [The technofossil records of humans.](https://doi.org/10.1177/2053019613514953) _Rev._, **1**(1), 34-43.
 
 ### 2011
 
-* Williams, M et al. (Eds.) 2011. Theme issue [‘The Anthropocene: a new epoch of geological time?’](http://rsta.royalsocietypublishing.org/content/369/1938) _Philosophical Transactions of the Royal Society A_ **369**(1938).
+* Williams, M _et al._ (Eds.) 2011. Theme issue [‘The Anthropocene: a new epoch of geological time?’](http://rsta.royalsocietypublishing.org/content/369/1938) _Philosophical Transactions of the Royal Society A_ **369**(1938).
 
 <img src="/images/working-groups/1938.cover_.gif" style="width:25%" />
 
 ### 2008
 
-* Zalasiewicz, J, Williams, M, Smith, A, Barry, TL, Coe, AL, Bown, PR, Brenchley, P, Cantrill, D, Gale, A, Gibbard, P, Gregory, FJ, Hounslow, MW, Kerr, AC, Pearson, P, Knox, R, Powell, JH, Waters, CN et al. 2008. [Are we living in the Anthropocene?](https://doi.org/10.1130/GSAT01802A.1) GSA Today, **18**(2): 4-8.
+* Zalasiewicz, J, Williams, M, Smith, A, Barry, TL, Coe, AL, Bown, PR, Brenchley, P, Cantrill, D, Gale, A, Gibbard, P, Gregory, FJ, Hounslow, MW, Kerr, AC, Pearson, P, Knox, R, Powell, JH, Waters, CN _et al._ 2008. [Are we living in the Anthropocene?](https://doi.org/10.1130/GSAT01802A.1) GSA Today, **18**(2): 4-8.
 
 ### 2007
 
-* Steffen, W et al. 2007. [The Anthropocene: Are Humans Now Overwhelming the Great Forces of Nature?](https://www.pik-potsdam.de/news/public-events/archiv/alter-net/former-ss/2007/05-09.2007/steffen/literature/ambi-36-08-06_614_621.pdf) _Ambio_ **36**(8): 614-621.
+* Steffen, W _et al._ 2007. [The Anthropocene: Are Humans Now Overwhelming the Great Forces of Nature?](https://www.pik-potsdam.de/news/public-events/archiv/alter-net/former-ss/2007/05-09.2007/steffen/literature/ambi-36-08-06_614_621.pdf) _Ambio_ **36**(8): 614-621.
 
 ### 2002
 
