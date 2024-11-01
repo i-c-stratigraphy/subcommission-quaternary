@@ -6,4 +6,4 @@ permalink: /regional-divisions/latvia
 
 # Latvia and the eastern Baltic region
 
-<img src="/images/regional-divisions/Eastern-Baltic1.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/regional-divisions/Eastern-Baltic1.jpg" style="width:100%" />

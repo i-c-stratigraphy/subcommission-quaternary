@@ -6,7 +6,7 @@ permalink: /regional-divisions/urals
 
 # Urals region
 
-<img src="/images/regional-divisions/Russia_Urals_1-856x1024.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/regional-divisions/Russia_Urals_1-856x1024.jpg" style="width:100%" />
 
 **Quaternary stratigraphy of the Urals – selected references**
 

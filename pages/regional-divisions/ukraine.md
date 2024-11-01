@@ -6,7 +6,7 @@ permalink: /regional-divisions/ukraine
 
 # Ukraine
 
-<img src="/images/regional-divisions/Ukraine.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/regional-divisions/Ukraine.jpg" style="width:100%" />
 
 **References**
 

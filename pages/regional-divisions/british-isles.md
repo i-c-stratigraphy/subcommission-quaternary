@@ -6,7 +6,7 @@ permalink: /regional-divisions/british-isles
 
 # British Isles
 
-<img src="/images/regional-divisions/QuatstratGB111.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/regional-divisions/QuatstratGB111.jpg" style="width:100%" />
 
 **Quaternary stratigraphy of Great Britain and Ireland – selected references**
 

@@ -6,4 +6,4 @@ permalink: /regional-divisions/morocco
 
 # Morocco
 
-<img src="/images/regional-divisions/Moroccan.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/regional-divisions/Moroccan.jpg" style="width:100%" />

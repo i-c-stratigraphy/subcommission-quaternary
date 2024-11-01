@@ -8,7 +8,7 @@ permalink: /major-divisions
 
 This page lists the definitions of the major global stratigraphic divisions of the Quaternary System/Period. A brief history of the definitions of the Quaternary and Pleistocene is provided first, then a synopsis of GSSPs sanctioned to define the Quaternary and its subdivisions, and finally a listing of official auxiliary stratotypes designated to support these GSSPs. For the Anthropocene, a presently unofficial but proposed series/epoch that would terminate the Holocene, see [here](working-groups-anthropocene).
 
-<img src="/images/major-divisions/Quaternary-subdivision-2022.png" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/Quaternary-subdivision-2022.png" style="width:100%" />
 
 _The current IUGS-ratified timescale for the Quaternary System/Period (July 2022).  The age, location and primary guide for each GSSP is also included. The Upper/Late Pleistocene Subseries/Subepoch is ratified in name only, pending its definition and that of its corresponding stage by GSSP.  Abbreviations: “b2k” = before the year 2000. ka = thousands years before present. Ma = millions of years before present._
 
@@ -20,7 +20,7 @@ Charles Lyell in 1839 introduced the term Pleistocene (Greek, pleīstos, most; a
 
 The linkage between the base of the Pleistocene and that of the Quaternary became established over time, and was reaffirmed during the 18th International Geological Congress in London in 1948, where it was agreed to place the “Pliocene–Pleistocene (Tertiary–Quaternary) boundary … at the horizon of the first indication of climatic deterioration in the Italian Neogene succession.” (King and Oakley, 1949, p. 186; see Head and Gibbard, 2015a).
 
-<img src="/images/major-divisions/Gibbard-Head-2020-fig30_1.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/Gibbard-Head-2020-fig30_1.jpg" style="width:100%" />
 
 _A brief history of Quaternary chronostratigraphic divisions since 1982 as depicted in the Geological Time Scale (GTS) publications of Harland et al. (1982, 1989) and Gradstein et al. (2004, 2012, 2020). Reproduced from Gibbard and Head, 2020, fig. 30.1._
 
@@ -32,17 +32,17 @@ This decision was a natural consequence of several facts: 1) alignment of the ba
 
 ## Global boundary Stratotype Sections and Points (GSSPs) and official subdivisions of the Quaternary
 
-<img src="/images/major-divisions/GSSPs-Quaternary.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/GSSPs-Quaternary.jpg" style="width:100%" />
 
 _GSSPs for the Quaternary System/Period: Monte San Nicola, near Gela, Sicily, Italy (Quaternary System/Period, Pleistocene Series/Epoch, Lower/Early Pleistocene Subseries/Subepoch, Gelasian Stage/Age), Vrica, Calabria, Italy (Calabrian Stage/Age), Chiba, Chiba Prefecture, Boso Peninsula, Japan (Middle Pleistocene Subseries/Subepoch, Chibanian Stage/Age), NorthGRIP2 (NGRIP2), Greenland (Holocene Series/Epoch, Lower/Early Holocene Subseries/Subepoch, Greenlandian Stage/Age), NorthGRIP1 (NGRIP1),Greenland (Middle Holocene Subseries/Subepoch, Northgrippian Stage/Age), KM-A speleothem, Mawmluh Cave, Meghalaya State, India (Upper/Late Holocene Subseries/Subepoch, Meghalayan Stage/Age). Credits: Mollweide projection by Strebe._
 
 ## Quaternary System/Period, Pleistocene Series/Epoch, Lower/Early Pleistocene Subseries/Subepoch, and Gelasian Stage/Age
 
-<img src="/images/major-divisions/Gelasian-GSSP.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/Gelasian-GSSP.jpg" style="width:100%" />
 
 _The Monte San Nicola section, near Gela, in Sicily, Italy – the GSSP for the Gelasian Stage, Pleistocene Series, and Quaternary System is placed at the base of the marly layer conformably overlying the sapropelic Nicola bed. The position of the GSSP is indicated by an arrow. The GSSP has an age of 2.58 Ma. Photograph: M.J. Head (May 2022)._
 
-<img src="/images/major-divisions/GSSP-Gelasian_closeup.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/GSSP-Gelasian_closeup.jpg" style="width:100%" />
 
 _Close-up of the Monte San Nicola section showing the GSSP for the Gelasian Stage, Pleistocene Series, and Quaternary System. The position of the GSSP is indicated by an arrow. Photograph: M.J. Head (May 2022)._
 
@@ -66,7 +66,7 @@ _Close-up of the Monte San Nicola section showing the GSSP for the Gelasian Stag
 
 ## Calabrian Stage/Age 
 
-<img src="/images/major-divisions/GSSP-Vrica.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/GSSP-Vrica.jpg" style="width:100%" />
 
 _The Vrica section near Crotone, Calabria, southern Italy – the GSSP for the Calabrian Stage and Lower Pleistocene Subseries. The GSSP is placed at the base of the marine claystone conformably overlying sapropelic bed ‘e’, indicated by an arrow in the closeup of the section in (b). Photograph by Ilka Von Dalwigk (June 2000); supplied by Luca Capraro. Reproduced from Head (2019, fig. 5)._
 
@@ -90,7 +90,7 @@ _The Vrica section near Crotone, Calabria, southern Italy – the GSSP for the C
 
 ## Middle Pleistocene Subseries/Subepoch and Chibanian Stage/Age
 
-<img src="/images/major-divisions/Suganuma-et-al.-2020-fig10_hi_contrast.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/Suganuma-et-al.-2020-fig10_hi_contrast.jpg" style="width:100%" />
 
 _The Chiba section, Chiba Prefecture, Japan – the GSSP for the Chibanian Stage and Middle Pleistocene Subseries. The GSSP is placed at the base of the Byk-E tephra bed (orange star in b). (a) Overview of the Chiba section. The yellow line indicates the Byk-E tephra bed and GSSP horizon. (b) and (c) Details of the Byk-E tephra bed. The length of rule (b) is 2.0 m. Credits: a, b, from Suganuma et al. (2021, fig. 10); c, photograph by M.J. Head._
 
@@ -102,7 +102,7 @@ Depositional environment of GSSP interval: open-ocean continental slope setting 
 
 Date of ratification: for both the Chiba Stage and Middle Pleistocene Subseries, on January 17, 2020 (Suganuma et al., 2021).
 
-<img src="/images/major-divisions/Chiba-GSSP-plaque.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/Chiba-GSSP-plaque.jpg" style="width:100%" />
 
 _The GSSP plaque at the Chiba section, Japan. Photo: M.J. Head._
 
@@ -134,11 +134,11 @@ It should be noted that an early/middle/late subdivision for the Holocene had be
 
 ## Holocene Series/Epoch, Lower/Early Holocene Subseries/Subepoch, and Greenlandian Stage/Age
 
-<img src="/images/major-divisions/Greenlandian-ice-GSSP.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/Greenlandian-ice-GSSP.jpg" style="width:100%" />
 
 NorthGRIP2 (NGRIP2) ice core, Greenland – GSSP for the Greenlandian Stage, Lower Holocene Subseries, and Holocene Series. This visual image is ’reversed’ to show clear ice as black and impurities including micrometre-sized dust particles approaching white. This results in an essentially seasonal signal revealing annual banding in the ice. The GSSP is at 1492.45 m depth in this core. From Walker et al. (2009, fig. 4).
 
-<img src="/images/major-divisions/Greenlandian-GSSP.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/Greenlandian-GSSP.jpg" style="width:100%" />
 
 NorthGRIP2 (NGRIP2) ice core, Greenland – GSSP for the Greenlandian Stage, Lower Holocene Subseries, and Holocene Series. a) shows the oxygen isotope record  across the Pleistocene–Holocene boundary, and b) high-resolution multi-parameter record: δ18O, electrical conductivity (ECM), Na+ concentration, dust content, and a sharp decline in deuterium excess at the GSSP indicating rapid warming. Modified from Walker et al. (2009, fig. 5).
 
@@ -164,7 +164,7 @@ NorthGRIP2 (NGRIP2) ice core, Greenland – GSSP for the Greenlandian Stage, Low
 
 ## Middle Holocene Subseries/Subepoch, and Northgrippian Stage/Age
 
-<img src="/images/major-divisions/Northgrippian-GSSP.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/Northgrippian-GSSP.jpg" style="width:100%" />
 
 _NorthGRIP1 (NGRIP1) ice core, Greenland – GSSP for the Northgrippian Stage and Middle Holocene Subseries. a) shows the water oxygen isotope record in both GRIP and NGRIP1 Greenland ice cores, where the arrow marking the 8.2 ka climate event has a duration from ~8300 a b2k (1234.78 m) to ~8140 a b2k (1219.47 m). b) Electrical conductivity measurements (ECM) reveal a distinct acidity double peak, most probably caused by an Icelandic volcano. This peak is dated on the GICC05 timescale to 8236 a b2k (8186 cal a BP), and is the primary marker for the GSSP which is indicated by the dashed vertical line (after Walker et al., 2012, 2018, 2019)._
 
@@ -190,11 +190,11 @@ _NorthGRIP1 (NGRIP1) ice core, Greenland – GSSP for the Northgrippian Stage an
 
 ## Upper/Late Holocene Subseries/Subepoch, Meghalayan Stage/Age
 
-<img src="/images/major-divisions/Meghalayan-GSSP.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/Meghalayan-GSSP.jpg" style="width:100%" />
 
 _Speleothem KM-A from the Mawmluh Cave, State of Meghalaya, India – GSSP for the Meghalayan Stage and Upper Holocene Subseries. A) the speleothem KM-A with the position of the 4.2 ka climate event which is the primary guide to the GSSP. The speleothem is ~308 mm long. B) a) precise location of the GSSP, b) Oxygen isotope record of speleothem KM-A across the GSSP interval showing the precise position of the GSSP. The GSSP occurs at the approximate  mid-point between the onset of the 4.2 ka climate event and its intensification (marked by the shaded rectangle). c) an inverted δ13C tree ring record from northern Finland as a proxy for wetter conditions, and the most northerly expression yet documented for the 4.2 ka event (from fig. 1 of Helama and Oinonen, 2019). Based on Walker et al. (2019, fig. 5) and Head (2019, fig. 12)._
 
-<img src="/images/major-divisions/Meghalayan-GSSP-BSIP-wide.png" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/Meghalayan-GSSP-BSIP-wide.png" style="width:100%" />
 
 _Speleothem KM-A is on permanent display in the museum of the Birbal Sahni Institute of Palaeosciences, Lucknow, India. This is the only GSSP at present that can be displayed in a museum without refrigeration._
 
@@ -220,7 +220,7 @@ _Speleothem KM-A is on permanent display in the museum of the Birbal Sahni Insti
 
 Auxiliary stratotypes assist in extending the knowledge of a Global boundary Stratotype Section and Point (GSSP) between continents, biogeographic provinces, climatic zones, depositional facies and preservational states (Head et al., 2022). They are always subordinate to GSSPs. Auxiliary stratotypes have presently been defined only for the Holocene and its subdivisions, although work is ongoing to define additional auxiliary stratotypes for the Quaternary.
 
-<img src="/images/major-divisions/SABSs-Quaternary.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/major-divisions/SABSs-Quaternary.jpg" style="width:100%" />
 
 _Auxiliary stratotypes for the Quaternary System/Period have been designated to support several GSSPs. Holocene Series/Epoch, Lower/Early Holocene Subseries/Subepoch, and Greenlandian Stage/Age: Eifelmaar lakes (Lake Holzmaar and Meerfelder Maar), Germany; Splan Pond, eastern New Brunswick, Canada; Lake Suigetsu, western central Japan; Lake Maratoto, northern North Island, New Zealand; and Cariaco Basin off Venezuela. Middle Holocene Subseries/Subepoch, Northgrippian Stage/Age: Gruto do Padre speleothem, Bahia State, Brazil. Upper/Late Holocene Subseries/Subepoch, Meghalayan Stage/Age: Mount Logan plateau ice field, Yukon, Canada. Credits: Mollweide projection by Strebe._
 

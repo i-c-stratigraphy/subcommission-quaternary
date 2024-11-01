@@ -6,4 +6,4 @@ permalink: /regional-divisions/greece
 
 # Greece
 
-<img src="/images/regional-divisions/Greece.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/regional-divisions/Greece.jpg" style="width:100%" />

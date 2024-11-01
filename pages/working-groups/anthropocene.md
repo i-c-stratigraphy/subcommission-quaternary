@@ -6,7 +6,7 @@ permalink: /working-groups/anthropocene
 
 # Working Group on the ‘Anthropocene’
 
-<img src="/images/working-groups/awg_top2.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/working-groups/awg_top2.jpg" style="width:100%" />
 
 ## Joint statement by the IUGS and ICS on the vote by the ICS Subcommission on Quaternary Stratigraphy
 
@@ -35,7 +35,7 @@ The proposals submitted by the AWG to the SQS can be downloaded from EarthArXiv
 **Part 2: Descriptions of the proposed Crawford Lake GSSP and supporting SABSs**  
 <https://eartharxiv.org/repository/view/6963/> (doi: <https://doi.org/10.31223/X5RD71>)
 
-<img src="/images/working-groups/GSSP-SABS_summ_for_web-1.png" style="width:100%" />
+<img src="{{ site.baseurl }}/images/working-groups/GSSP-SABS_summ_for_web-1.png" style="width:100%" />
 
 Further details on the stratigraphic research from the sites investigated by the AWG and GSSP scientific teams can be found in the special issue of The Anthropocene Review. “Global boundary Stratotype Section and Point for the Anthropocene series”, Volume 10, Issue 1, April 2023 <https://journals.sagepub.com/toc/anra/10/1>
 
@@ -180,7 +180,7 @@ Colin Waters (v) (AWG Chair) e-mail: <cw398@leicester.ac.uk>
 * Zalasiewicz, J. _et al._ 2019. A formal Anthropocene is compatible with but distinct from its diachronous anthropogenic counterparts: a response to WF Ruddiman’s ‘three flaws in defining a formal Anthropocene’. _Progress in Physical Geography,_ 43(3): 319-333.
 * Zalasiewicz, J, Waters, CN _et al._ (Eds.) (2019). [_The Anthropocene as a Geological Time Unit_](https://www.cambridge.org/gb/academic/subjects/earth-and-environmental-science/sedimentology-and-stratigraphy/anthropocene-geological-time-unit-guide-scientific-evidence-and-current-debate?format=HB). CUP.
 
-<img src="/images/working-groups/Screen-Shot-2018-09-28-at-10.59.06.png" style="width:50%" />
+<img src="{{ site.baseurl }}/images/working-groups/Screen-Shot-2018-09-28-at-10.59.06.png" style="width:50%" />
 
 _The Anthropocene, a term launched into public debate by Nobel Prize winner Paul Crutzen, has been used informally to describe the time interval during which human actions have had a drastic effect on the Earth and its ecosystems, including anthropogenic climate change. This book presents the underpinning geological evidence for defining the Anthropocene as a geological epoch, written by the high-profile international team tasked with analysing its potential addition to the Geological Time Scale. It discusses Anthropocene stratigraphy and ongoing changes to the Earth system, including the climate, oceans and biosphere.
 
@@ -232,7 +232,7 @@ The evidence for the Anthropocene is examined in detail, ranging from chemical s
 
 * Waters, CN _et al._ 2014. [_A Stratigraphical basis for the Anthropocene_](http://sp.lyellcollection.org/content/395/1). Geological Society, London, Special Publication, **395**, 321pp. 
 
-<img src="/images/working-groups/F1.medium.gif" style="width:25%" />
+<img src="{{ site.baseurl }}/images/working-groups/F1.medium.gif" style="width:25%" />
 
 * Zalasiewicz, J, Waters, CN & Williams, M 2014. [Human bioturbation, and the subterranean landscape of the Anthropocene](https://doi.org/10.1016/j.ancene.2014.07.002). _Anthropocene_, **6**: 3-9.
 * Zalasiewicz, J, Williams, M, Waters, CN _et al._ 2014. [The technofossil records of humans.](https://doi.org/10.1177/2053019613514953) _Rev._, **1**(1), 34-43.
@@ -241,7 +241,7 @@ The evidence for the Anthropocene is examined in detail, ranging from chemical s
 
 * Williams, M _et al._ (Eds.) 2011. Theme issue [‘The Anthropocene: a new epoch of geological time?’](http://rsta.royalsocietypublishing.org/content/369/1938) _Philosophical Transactions of the Royal Society A_ **369**(1938).
 
-<img src="/images/working-groups/1938.cover_.gif" style="width:25%" />
+<img src="{{ site.baseurl }}/images/working-groups/1938.cover_.gif" style="width:25%" />
 
 ### 2008
 

@@ -6,7 +6,7 @@ permalink: /regional-divisions/west-siberian-plain
 
 # West Siberian Plain
 
-<img src="/images/regional-divisions/NEW-Western-Siberian-Plain.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/regional-divisions/NEW-Western-Siberian-Plain.jpg" style="width:100%" />
 
 **Quaternary stratigraphy of Western Siberia – selected references**
 

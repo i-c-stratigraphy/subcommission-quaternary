@@ -6,7 +6,7 @@ permalink: /regional-divisions/russia-southern
 
 # Russia – southern Fore-Urals
 
-<img src="/images/regional-divisions/Russia-S_Fore-Urals.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/regional-divisions/Russia-S_Fore-Urals.jpg" style="width:100%" />
 
 **Quaternary stratigraphy of South Fore-Urals – selected references**
 

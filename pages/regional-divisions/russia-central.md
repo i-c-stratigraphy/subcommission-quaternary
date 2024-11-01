@@ -6,7 +6,7 @@ permalink: /regional-divisions/russia-central
 
 # Russia Central (European Russia)
 
-<img src="/images/regional-divisions/Russia-Central.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/regional-divisions/Russia-Central.jpg" style="width:100%" />
 
 **Quaternary stratigraphy of Central Russia – selected references**
 

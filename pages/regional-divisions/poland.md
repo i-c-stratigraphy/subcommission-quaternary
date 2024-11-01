@@ -6,7 +6,7 @@ permalink: /regional-divisions/poland
 
 # Poland
 
-<img src="/images/regional-divisions/Poland.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/regional-divisions/Poland.jpg" style="width:100%" />
 
 **Quaternary stratigraphy of Poland – selected references with explanatory notes**
 

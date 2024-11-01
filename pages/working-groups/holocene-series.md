@@ -36,7 +36,7 @@ The Holocene GSSP was formally accepted and ratified by IUGS in May 2008.
 
 Download; [voting details](/files/working-groups/HoloceneGSSP_to_IUGS.doc), [confirmation letter from IUGS](/files/working-groups/HoloceneGSSPIUGS.pdf).
 
-<img src="/images/working-groups/ngripholo.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/working-groups/ngripholo.jpg" style="width:100%" />
 
 The visual stratigraphy of the NGRIP core between 1491.6 and 1493.25 m depth obtained using a digital line scanner (Svensson et al., 2005). In this photograph, the image is ‘reversed’ so that clear ice shows up black, whereas the cloudy bands, which contain relatively large quantities of impurities, in particular micrometer-sized dust particles from dry area in eastern Asia, appear white. The visual stratigraphy is essentially a seasonal signal and reveals annual banding in the ice. The location of the Pleistocene-Holocene boundary at 1492.45 m is shown in the enlarged lower image. A core break occurs at a depth of 1492.32 m. The ice core is complete and continuous across the core break, but the visual stratigraphy scanning image is disturbed by the break and has thus been masked out (photograph by Sune Rasmussen).
 

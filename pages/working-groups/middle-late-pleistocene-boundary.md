@@ -24,11 +24,11 @@ Dr Alessandra Negri (Universita’ Politecnica delle Marche, Ancona, Italy)
 
 ---
 
-<img src="/images/working-groups/DSCN0031.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/working-groups/DSCN0031.jpg" style="width:100%" />
 
 **Bonn October 2005: Charles Turner, Phil Gibbard, Thomas Litt, Art Bettis, Aleid Bosch**
 
-<img src="/images/working-groups/DSCN0040.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/working-groups/DSCN0040.jpg" style="width:100%" />
 
 **Tim Partridge, Peter Kershaw, Phil Gibbard, Charles Turner, Andrey Dodonov Photographs by Andrey Dodonov.**
 

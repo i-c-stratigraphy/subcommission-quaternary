@@ -6,7 +6,7 @@ permalink: /regional-divisions/lithuania
 
 # Lithuania
 
-<img src="/images/regional-divisions/Lithuania.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/regional-divisions/Lithuania.jpg" style="width:100%" />
 
 **References**
 

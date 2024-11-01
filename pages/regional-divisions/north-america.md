@@ -6,4 +6,4 @@ permalink: /regional-divisions/north-america
 
 # North America
 
-<img src="/images/regional-divisions/North-America.jpg" style="width:100%" />
+<img src="{{ site.baseurl }}/images/regional-divisions/North-America.jpg" style="width:100%" />
