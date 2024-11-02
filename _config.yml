@@ -2,7 +2,7 @@ title: Qaternary Subcommission of the ICS
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The SQS exists to promote and co-ordinate international co-operation and integration by applying the statutory scientific goals of the International Commission on Stratigraphy to the Quaternary – the most recent geological system, the last 2.6 Ma
-baseurl: "/subcommission-quaternary" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
