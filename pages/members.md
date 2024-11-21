@@ -8,15 +8,7 @@ permalink: /members
 
 ## Officers
 
-**Chair: Prof Emeritus Jan Zalasiewicz**  
-Department of Geology  
-University of Leicester  
-Leicester LE 1 7RH  
-England, UK  
-Tel: +44 (0)116 252 3928  
-<jaz1@le.ac.uk> 	
-
-**Secretary: Professor Adele Bertini**  
+**Chair: Professor Adele Bertini**  
 Dipartimento di Scienze dela Terra  
 University of Firenze  
 Via G. La Pira 4  
