@@ -19,10 +19,10 @@ permalink: /
         <h3>Enquiries</h3>
         <p>Please direct all enquries about the SQS to:</p>
         <p>
-            <strong>Prof. Adele Bertini</strong><br />  
+            <strong>Dr Fabienne Marret-Davies</strong><br />  
             Quaternary Subcommission Secretary<br />
-            University of Firenze<br />
-            <a href="adele.bertini@unifi.it">adele.bertini@unifi.it</a>
+            University of Liverpool<br />
+            <a href="f.marret@liverpool.ac.uk">f.marret@liverpool.ac.uk</a>
         </p>
     </div>
     <div style="grid-column:2;">
