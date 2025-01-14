@@ -16,10 +16,10 @@ permalink: /
             <li>the evaluation of new stratigraphical methods and their integration into a multidisciplinary stratigraphy, and</li>
             <li>the definition of principles of stratigraphical classification, terminology and procedure and their publication in guides and glossaries.</li>
 
-        <h3>Collaborations</h3>  
-        <p> SQS closely collaborates with the **International Union for Quaternary Research (INQUA)** to address the stratigraphic needs of the global Quaternary community. Partnerships include:</p>
-            <li>**SACCOM**: ongoing collaboration,</li>  
-            <li>**SEQS**: active collaboration sinece late 2024.</li>  
+<h3>Collaborations</h3>  
+        <p>SQS closely collaborates with the <strong>International Union for Quaternary Research (INQUA)</strong> to address the stratigraphic needs of the global Quaternary community. Partnerships include:</p>
+            <li><strong>SACCOM</strong>: ongoing collaboration,</li>  
+            <li><strong>SEQS</strong>: active collaboration since late 2024.</li>  
         </ul>
         <h3>Enquiries</h3>
         <p>Please direct all enquries about the SQS to:</p>
