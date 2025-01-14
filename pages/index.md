@@ -21,7 +21,7 @@ permalink: /
             <li><strong>SACCOM</strong>: ongoing collaboration,</li>  
             <li><strong>SEQS</strong>: active collaboration since late 2024.</li>  
 
-<img src="images/Quaternarychart.png" />            
+<img src="images/Quaternarychart.png" style="width:25%;"/>            
         </ul>
         <h3>Enquiries</h3>
         <p>Please direct all enquries about the SQS to:</p>
