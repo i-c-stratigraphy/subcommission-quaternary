@@ -23,7 +23,7 @@ SQS closely collaborates with the <strong>International Union for Quaternary Res
 * **SACCOM**: ongoing collaboration,
 * **SEQS**: active collaboration since late 2024.
 
-<img src="images/Quaternarychart.png" style="width:100%;"/>            
+<a href="images/Quaternarychart.png"><img src="images/Quaternarychart.png" style="width:100%;"/></a>
 
 ### Enquiries
 
