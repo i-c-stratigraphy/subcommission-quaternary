@@ -4,19 +4,18 @@ title: "Working Groups"
 permalink: /working-groups
 ---
 
-## Working Groups
+## Working Groups ##
 
-The SQS currently has three Working Groups:
+### The SQS is currently working to establish a working group on defining the  GSSP for the Upper Pleistocene Subseries and its corresponding stage ### 
 
-* The Anthropocene Working Group (AWG) was established in June 2009 to examine the possibility of recognising an Anthropocene division either within the Holocene or separated from it. A formal proposal was submitted to the SQS on October 31, 2023 that the Anthropocene be accepted as a stage/epoch terminating the Holocene, with a GSSP in a core recovered from Crawford Lake, near Milton, Ontario, Canada that would also define the Crawfordian Stage/Age. The AWG is led by Prof. Colin Waters.
-* The Middle–Upper Pleistocene Subseries was ratified in name only on 30th January 2020, with a provisional age of 129 000 years. A working group has been established to define this boundary by means of a GSSP.
-* The Middle Pleistocene second stage boundary working group was  established in August 2023 to examine the possibility of a second stage for the Middle Pleistocene Subseries. This would terminate the Chibanian Stage.
+* The boundary marking the Upper/Late Pleistocene is generally well-recognized, as it aligns with the warming phase leading into the last interglacial, Marine Isotope Stage (MIS) 5e. However, achieving precise correlation within this interval is challenging due to temporal discrepancies between various stratigraphic settings, particularly between marine and terrestrial records (Shackleton et al., 2003).
 
-Listed below are both active and completed boundary working groups.
+* One proposed candidate for this stratotype was the Fronte section in Taranto, Italy. This section features a thick pelitic sequence of marine deposits with continuous onshore exposure and excellent accessibility (Negri et al., 2015, 2016). It provides a detailed record of the peak interval of MIS 5.5, containing foraminifera (and associated oxygen isotope data), a palaeomagnetic record, and some palynomorphs. However, like many onshore sites from this period, it exhibits incomplete sedimentation from MIS 6 to MIS 5. This gap includes the absence of a continuous foraminiferal isotopic record and the lack of evidence for Termination II.
+
+* Another proposed alternative is the EPICA Dome C ice core from Antarctica, as suggested by Head (2019). This core reveals a prominent and abrupt methane increase, likely originating from equatorial regions, which correlates with a period of rapid global warming. This signal is globally significant and may have detectable counterparts in other stratigraphic records (Head, 2019, fig. 9).
+
+* Ongoing work aims to evaluate these and other additional marine and terrestrial sites to prepare a comprehensive stratotype proposal for the Upper Pleistocene boundary.
 
 
-* [Pleistocene – Holocene boundary working group](/working-groups/holocene-series)
-* [Middle / Late Pleistocene boundary working group (active)](/working-groups/middle-late-pleistocene-boundary)
-* [Middle Pleistocene second stage boundary working group (active)](/working-groups/early-middle-pleistocene-boundary)
-* [Early / Middle Pleistocene boundary working group](/working-groups/early-middle-pleistocene-boundary)
-* [Anthropocene working group (active)](/working-groups/anthropocene)
+
+
