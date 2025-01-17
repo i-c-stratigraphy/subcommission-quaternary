@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "GSPP Ideale"
-permalink: /GSPP Ideale
+permalink: /GSSP_Ideale
 ---
-<a href="images/gssps/GSSP_ideale.png"><img src="images/gssps/GSSP_ideale.png" style="width:100%;"/></a>
+
+<img src="images/gssps/GSSP_ideale.png" style="width:100%;"/></a>
