@@ -16,6 +16,9 @@ permalink: /working-groups
 
 * Ongoing work aims to evaluate these and other additional marine and terrestrial sites to prepare a comprehensive stratotype proposal for the Upper Pleistocene boundary.
 
-
+  
+## Other informal groups ##  
+### GELSTRAT ###  
+Continuing re-investigation of the GSSP Gelasian (and lower Pleistocene Subseries, Pleistocene series, Quaternary System).
 
 
