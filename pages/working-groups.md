@@ -19,6 +19,7 @@ permalink: /working-groups
   
 ## Other informal groups ##  
 ### GELSTRAT ###  
+[see here for further information](other_informal_groups)  
 Continuing re-investigation of the GSSP Gelasian (and lower Pleistocene Subseries, Pleistocene series, Quaternary System).
 
 
