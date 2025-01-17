@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Links"
-permalink: /links.md
+permalink: /links
 ---
 
 [International Commission on Stratigraphy](https://stratigraphy.org/)
