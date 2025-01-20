@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "GSPP Ideale"
+title: "GSSP Ideale"
 permalink: /GSSP-Ideale
 ---
 
