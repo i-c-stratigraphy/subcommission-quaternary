@@ -9,5 +9,5 @@ For all GSSPs and SABs of the Quaternary see [here](https://stratigraphy.org/gss
 
 ## Latest ratifications ##
 * Standard Auxiliary Boundary Stratotype (SABS) for the Global boundary Stratotype Section and Point (GSSP) of the Middle Pleistocene Subseries/ Subepoch and Chibanian Stage/Age at the Chiba section, Japan at the Ideale section (IS) - Montalbano Jonico, Italy [Ideale section](GSSP-Ideale)
-* Global Boundary Stratotype Section and Point (GSSP) for the Chibanian Stage and Middle Pleistocene Subseries of the Quaternary System: the Chiba Section, Japan (January 17, 2020)
+* Global Boundary Stratotype Section and Point (GSSP) for the Chibanian Stage and Middle Pleistocene Subseries of the Quaternary System: the Chiba Section, Japan (January 17, 2020) [Chiba section](GSSP-Chiba)
 
