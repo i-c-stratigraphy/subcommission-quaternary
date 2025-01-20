@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "GSPP Chiba"
+title: "GSSP Chiba"
 permalink: /GSSP-Chiba
 ---
 
