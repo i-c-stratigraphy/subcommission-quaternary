@@ -18,7 +18,5 @@ Department of Biological, Geological
 and Environmental Sciences
 University of Bologna (Italy)
 Email: alessandro.amorosi@unibo.it
-<img src="images/meetings/Amorosi photo.jpg"/>
-
-                               
+<img src="images/Amorosiphoto.jpg" />                             
 
