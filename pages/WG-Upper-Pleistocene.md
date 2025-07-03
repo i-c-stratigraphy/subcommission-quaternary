@@ -20,10 +20,11 @@ and Environmental Sciences\
 University of Bologna (Italy)\
 <alessandro.amorosi@unibo.it>
 
-**Chair: Prof Gonzalo Jiménez Moreno**\
+**Vice-Chair: Prof Gonzalo Jiménez Moreno**\
 Department of Stratigraphy and Palaeontology\
 University of Granada (Spain)\
 <gonzaloj@ugr.es>
+
 
 ## Voting members ##
 
