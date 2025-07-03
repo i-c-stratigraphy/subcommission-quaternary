@@ -13,56 +13,57 @@ The Working Group (WG) on the Upper Pleistocene GSSP was created on May 15, 2025
  
 Initial attempts to define the boundary by GSSP failed to achieve ratification by the International Union of Geological Sciences (IUGS). Following examination of and voting upon candidate sections, the Working Group on the Upper Pleistocene GSSP is expected to formulate a GSSP proposal to the SQS, starting the sequence of events needed for GSSP ratification.
 
+
 **Chair: Prof Alessandro Amorosi**\
 Department of Biological, Geological\
 and Environmental Sciences\
 University of Bologna (Italy)\
-Email: alessandro.amorosi@unibo.it
+<alessandro.amorosi@unibo.it>
 
 **Chair: Prof Gonzalo Jiménez Moreno**\
 Department of Stratigraphy and Palaeontology\
 University of Granada (Spain)\
-Email : gonzaloj@ugr.es
+<gonzaloj@ugr.es>
 
 ## Voting members ##
 
 Dr. Pierre Antoine\
 CNRS Paris, France\
-pierre.antoine@lgp.cnrs.fr 
+<pierre.antoine@lgp.cnrs.fr>
 
 Dr. Margarita Caballero\
 National Autonomous University of Mexico\
-maga@igeofisica.unam.mx 
+<maga@igeofisica.unam.mx> 
 
 Prof. Hai Cheng\
 Xi’an Jiaotong University, China\
-cheng021@xjtu.edu.cn 
+<cheng021@xjtu.edu.cn>
 
 Dr. Georgia Grant\
 GNS Science, Lower Hutt, New Zealand\
-g.grant@gns.cri.nz 
+<g.grant@gns.cri.nz>
 
 Prof. Lucas Lourens\
 University of Utrecht, The Netherlands\
-l.j.lourens@uu.nl 
+<l.j.lourens@uu.nl>
 
 Prof. Maria Marino\
 University of Bari, Italy\
-maria.marino@uniba.it 
+<maria.marino@uniba.it> 
 
 Prof. Alex Simms\
 University of California, Santa Barbara, USA\
-asimms@geol.ucsb.edu 
+<asimms@geol.ucsb.edu>
 
 Dr. Toru Tamura\
 Geological Survey of Japan\
-toru.tamura@aist.go.jp 
+<toru.tamura@aist.go.jp> 
 
 Prof. Chronis Tzedakis\
 University College London, UK\
-p.c.tzedakis@ucl.ac.uk 
+<p.c.tzedakis@ucl.ac.uk> 
 
 Dr. Blas Valero-Garcés\
 Spanish National Research Council, Zaragoza, Spain\
-blas@ipe.csic.es 
+<blas@ipe.csic.es>
 
